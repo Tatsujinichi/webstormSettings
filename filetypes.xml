@@ -2,8 +2,9 @@
   <component name="FileTypeManager" version="17">
     <extensionMap>
       <mapping ext="frag" type="C++" />
-      <mapping pattern="animationTargets.js" type="PLAIN_TEXT" />
       <mapping pattern="deleteme" type="PLAIN_TEXT" />
+      <mapping pattern="animationTargets.js" type="PLAIN_TEXT" />
+      <mapping ext="conf" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
