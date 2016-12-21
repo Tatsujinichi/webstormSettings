@@ -5,6 +5,7 @@
       <mapping pattern="deleteme" type="PLAIN_TEXT" />
       <mapping pattern="animationTargets.js" type="PLAIN_TEXT" />
       <mapping ext="conf" type="PLAIN_TEXT" />
+      <mapping ext="vert" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
