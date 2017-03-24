@@ -3,6 +3,7 @@
     <extensionMap>
       <mapping ext="frag" type="C++" />
       <mapping pattern="deleteme" type="PLAIN_TEXT" />
+      <mapping pattern="build" type="PLAIN_TEXT" />
       <mapping pattern="animationTargets.js" type="PLAIN_TEXT" />
       <mapping ext="wat" type="PLAIN_TEXT" />
       <mapping ext="wasm" type="PLAIN_TEXT" />
