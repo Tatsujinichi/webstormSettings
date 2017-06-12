@@ -12,6 +12,7 @@
       <mapping ext="conf" type="PLAIN_TEXT" />
       <mapping ext="vert" type="PLAIN_TEXT" />
       <mapping ext="class" type="PLAIN_TEXT" />
+      <mapping ext="ttf" type="PLAIN_TEXT" />
       <mapping ext="gradle" type="XML" />
     </extensionMap>
   </component>
