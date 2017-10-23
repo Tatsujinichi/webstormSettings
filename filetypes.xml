@@ -2,6 +2,8 @@
   <component name="FileTypeManager" version="17">
     <extensionMap>
       <mapping ext="frag" type="C++" />
+      <mapping pattern="delMeSrc" type="JavaScript" />
+      <mapping pattern="delMeSrc.js" type="PLAIN_TEXT" />
       <mapping pattern="deleteme" type="PLAIN_TEXT" />
       <mapping pattern=".placeholder" type="PLAIN_TEXT" />
       <mapping pattern="build" type="PLAIN_TEXT" />
