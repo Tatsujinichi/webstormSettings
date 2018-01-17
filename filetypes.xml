@@ -6,6 +6,7 @@
       <mapping pattern="delMeSrc.js" type="PLAIN_TEXT" />
       <mapping pattern="deleteme" type="PLAIN_TEXT" />
       <mapping pattern=".placeholder" type="PLAIN_TEXT" />
+      <mapping pattern=".npmrc" type="PLAIN_TEXT" />
       <mapping pattern="build" type="PLAIN_TEXT" />
       <mapping pattern="test" type="PLAIN_TEXT" />
       <mapping pattern="animationTargets.js" type="PLAIN_TEXT" />
