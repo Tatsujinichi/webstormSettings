@@ -3,6 +3,7 @@
     <extensionMap>
       <mapping ext="frag" type="C++" />
       <mapping pattern="delMeSrc" type="JavaScript" />
+      <mapping pattern=".dockerignore" type="PLAIN_TEXT" />
       <mapping pattern="delMeSrc.js" type="PLAIN_TEXT" />
       <mapping pattern="deleteme" type="PLAIN_TEXT" />
       <mapping pattern=".placeholder" type="PLAIN_TEXT" />
@@ -18,6 +19,7 @@
       <mapping ext="conf" type="PLAIN_TEXT" />
       <mapping ext="cfg" type="PLAIN_TEXT" />
       <mapping ext="vert" type="PLAIN_TEXT" />
+      <mapping ext="config" type="PLAIN_TEXT" />
       <mapping ext="class" type="PLAIN_TEXT" />
       <mapping ext="ttf" type="PLAIN_TEXT" />
       <mapping ext="gradle" type="XML" />
