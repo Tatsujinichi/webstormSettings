@@ -3,15 +3,16 @@
     <extensionMap>
       <mapping ext="frag" type="C++" />
       <mapping pattern="delMeSrc" type="JavaScript" />
-      <mapping pattern=".dockerignore" type="PLAIN_TEXT" />
-      <mapping pattern="delMeSrc.js" type="PLAIN_TEXT" />
-      <mapping pattern="deleteme" type="PLAIN_TEXT" />
-      <mapping pattern=".placeholder" type="PLAIN_TEXT" />
-      <mapping pattern=".npmrc" type="PLAIN_TEXT" />
-      <mapping pattern="build" type="PLAIN_TEXT" />
       <mapping pattern="test" type="PLAIN_TEXT" />
+      <mapping pattern=".npmrc" type="PLAIN_TEXT" />
+      <mapping pattern="delMeSrc.js" type="PLAIN_TEXT" />
       <mapping pattern="animationTargets.js" type="PLAIN_TEXT" />
+      <mapping pattern=".dockerignore" type="PLAIN_TEXT" />
+      <mapping pattern="build" type="PLAIN_TEXT" />
+      <mapping pattern=".placeholder" type="PLAIN_TEXT" />
+      <mapping pattern="deleteme" type="PLAIN_TEXT" />
       <mapping ext="wat" type="PLAIN_TEXT" />
+      <mapping ext="fbx" type="PLAIN_TEXT" />
       <mapping ext="wasm" type="PLAIN_TEXT" />
       <mapping ext="app" type="PLAIN_TEXT" />
       <mapping ext="properties" type="PLAIN_TEXT" />
